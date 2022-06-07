@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fttogle918&count_bg=%23939393&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+### Projects
+
+1. [NLU - 문장 유사도 계산 ( STS task 해결 )](https://github.com/ttogle918/NLU_3-)
+2. [KoBERT를 적용하여 신문기사 보정 프로젝트](https://github.com/ttogle918/news_by_kobert)
+3. [Classify_Instrument_by_CNN](https://github.com/ttogle918/classify_instrument_by_CNN)
+4. [Anomoly_detection_IOT_sensor](Anomoly_detection_IOT_sensor)
+
+
 <!--
 **ttogle918/ttogle918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
