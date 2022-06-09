@@ -2,7 +2,8 @@
 
 
 <div align='center'>
-<img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fttogle918&count_bg=%23939393&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com'/>
+<img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fttogle918&count_bg=%23939393&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com'/>  
+<br>
 <img src='https://raw.githubusercontent.com/ttogle918/ttogle918/main/profile-summary-card-output/nord_dark/0-profile-details.svg'/>
 </div>
 
