@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fttogle918&count_bg=%23939393&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fttogle918&count_bg=%23939393&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 ![profile summary card](https://raw.githubusercontent.com/ttogle918/ttogle918/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
 
 <div align='center'>
@@ -29,10 +29,10 @@
 
 ### Projects
 
-💬 [NLU - 문장 유사도 계산 ( STS task 해결 )](https://github.com/ttogle918/NLU_3-)
-💬 [KoBERT를 적용하여 신문기사 보정 프로젝트](https://github.com/ttogle918/news_by_kobert)
-💬 [CNN으로 악기, 음계(Audio) 분류](https://github.com/ttogle918/classify_instrument_by_CNN)
-💬 [Anomoly_detection_IOT_sensor](Anomoly_detection_IOT_sensor)
+💬 [NLU - 문장 유사도 계산 ( STS task 해결 )](https://github.com/ttogle918/NLU_3-)  
+💬 [KoBERT를 적용하여 신문기사 보정 프로젝트](https://github.com/ttogle918/news_by_kobert)  
+💬 [CNN으로 악기, 음계(Audio) 분류](https://github.com/ttogle918/classify_instrument_by_CNN)  
+💬 [Anomoly_detection_IOT_sensor](Anomoly_detection_IOT_sensor)  
 
 
 <!--
