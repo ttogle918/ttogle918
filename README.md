@@ -36,7 +36,7 @@
 
 ### Projects
 
-- [QA(Question Answering) task : BERT(BertModel, klue/bert-base)로 문맥에 있는 질문에 대한 답 찾기](https://github.com/ttogle918/AI_practice/blob/main/QA%20task/03_BERT_QA_korsquad_BertModel%EB%A1%9C%EA%B5%AC%ED%98%84.ipynb)
+- [QA(Question Answering) : BertModel로 문맥에 있는 질문에 대한 답 찾기](https://github.com/ttogle918/AI_practice/blob/main/QA%20task/03_BERT_QA_korsquad_BertModel%EB%A1%9C%EA%B5%AC%ED%98%84.ipynb)
 - [NLU - 문장 유사도 계산 ( STS task 해결 )](https://github.com/ttogle918/NLU_3-)  
 - [KoBERT를 적용하여 신문기사 보정 프로젝트](https://github.com/ttogle918/news_by_kobert)  
 - [CNN으로 악기, 음계(Audio) 분류](https://github.com/ttogle918/classify_instrument_by_CNN)  
