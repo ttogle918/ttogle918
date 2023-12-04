@@ -36,20 +36,7 @@
 
 ### Projects
 
-- [QA(Question Answering) : BertModel로 문맥에 있는 질문에 대한 답 찾기](https://github.com/ttogle918/AI_practice/blob/main/QA%20task/03_BERT_QA_korsquad_BertModel%EB%A1%9C%EA%B5%AC%ED%98%84.ipynb)
-- [NLU - 문장 유사도 계산 ( STS task 해결 )](https://github.com/ttogle918/NLU_3-)  
-- [KoBERT를 적용하여 신문기사 보정 프로젝트](https://github.com/ttogle918/news_by_kobert)  
-- [CNN으로 악기, 음계(Audio) 분류](https://github.com/ttogle918/classify_instrument_by_CNN)  
-- [Anomoly_detection_IOT_sensor](https://github.com/ttogle918/Anomoly_detection_IOT_sensor)  
-- [AI_practice](https://github.com/ttogle918/AI_practice)
-  - dacon_음성_분류_경진대회( 0 ~ 9 목소리 분류 ) : test 정확도 0.98 달성  
-- [수강 시 구현한 소스코드/프로젝트 모음](https://github.com/ttogle918/mju_study)
-  - 알고리즘 문제 풀이 ( 프로그래머스, 『이것이 취업을 위한 코딩 테스트다 with 파이썬』)
-  - inging : 실시간 공유 그림판 -> Android
-  - Eclipse - java
-    - findProduct : 상품 탐색기
-    - GraphicEditor : 그림판 구현
-  - 보안 - C의 openssl -> DES, AES, RSA, ECDH
+
 
 
 <!--
